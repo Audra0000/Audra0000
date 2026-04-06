@@ -20,6 +20,8 @@ Feel free to check out my latest projects:
 - [Railway To Hell](https://github.com/LastStopStudios/RAILWAY-TO-HELL) – Railway to Hell is a Metroidvania action and exploration video game set in a hellish version of a railway system
 - [Recreation of Pokemon Pinball](https://github.com/Audra0000/game-engine-experiment) – This game is an adaptation of the Game Boy Advance game, Pokémon Pinball: Ruby and Sapphire. Using Raylibg, C++ and Box2D.
 - 
+### Other links
+- [Itchio](https://anaalcaraz.itch.io/) 
 
 ### Github Stats
 
