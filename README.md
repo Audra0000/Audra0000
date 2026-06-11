@@ -22,8 +22,8 @@ Feel free to check out my latest projects:
 - [Recreation of Pokemon Pinball](https://github.com/Audra0000/game-engine-experiment) – This game is an adaptation of the Game Boy Advance game, Pokémon Pinball: Ruby and Sapphire. Using Raylibg, C++ and Box2D.
   
 ### Other links
-- [Itchio](https://anaalcaraz.itch.io/)
-- [LinkedIn]([https://anaalcaraz.itch.io/](https://www.linkedin.com/in/ana-alcaraz-martinez-058287351/))
+- [Itch.io](https://anaalcaraz.itch.io/)
+- [LinkedIn](https://www.linkedin.com/in/ana-alcaraz-martinez-058287351/)
 
 ### Github Stats
 
