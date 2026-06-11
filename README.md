@@ -20,6 +20,7 @@ Feel free to check out my latest projects:
 - [Son of ithaca](https://github.com/NobodyGamesStudio/WaveEngine) – an action-adventure game based on The Odyssey. Developed with WaveEngine and custom-built tools. 
 - [Railway To Hell](https://github.com/LastStopStudios/RAILWAY-TO-HELL) – Railway to Hell is a Metroidvania action and exploration video game set in a hellish version of a railway system
 - [Recreation of Pokemon Pinball](https://github.com/Aniolobolo/PinballGameFisica2) – This game is an adaptation of the Game Boy Advance game, Pokémon Pinball: Ruby and Sapphire. Using Raylibg, C++ and Box2D.
+- [Racing game](https://github.com/AsiGamer29/RacingGame) – This game is an adaptation of the Game Boy Advance game, Pokémon Pinball: Ruby and Sapphire. Using Raylibg, C++ and Box2D.
   
 ### Other links
 - [Itch.io](https://anaalcaraz.itch.io/)
