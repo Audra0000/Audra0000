@@ -16,12 +16,14 @@ I'm particularly interested in **game engine development and how game engines wo
 ### 🎮 Projects
 Feel free to check out my latest projects:
 
-- [Custom 3D Engine](https://github.com/Audra0000/Engine) – Developed in C++ using OpenGL
+- [Custom 3D Engine, WaveEngine](https://github.com/Audra0000/Engine) – developed in C++ using OpenGL
+- [Son of ithaca](https://github.com/NobodyGamesStudio/WaveEngine) – an action-adventure game based on The Odyssey. Developed with WaveEngine and custom-built tools. 
 - [Railway To Hell](https://github.com/LastStopStudios/RAILWAY-TO-HELL) – Railway to Hell is a Metroidvania action and exploration video game set in a hellish version of a railway system
 - [Recreation of Pokemon Pinball](https://github.com/Audra0000/game-engine-experiment) – This game is an adaptation of the Game Boy Advance game, Pokémon Pinball: Ruby and Sapphire. Using Raylibg, C++ and Box2D.
-- 
+  
 ### Other links
-- [Itchio](https://anaalcaraz.itch.io/) 
+- [Itchio](https://anaalcaraz.itch.io/)
+- [LinkedIn]([https://anaalcaraz.itch.io/](https://www.linkedin.com/in/ana-alcaraz-martinez-058287351/))
 
 ### Github Stats
 
