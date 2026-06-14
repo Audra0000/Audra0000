@@ -3,16 +3,6 @@
 
 I am currently a student at CITM pursuing a degree in Design and Development of Video Games.
 
-I'm particularly interested in **game engine development and how game engines work internally**.
-
-### 🛠️ Technologies & Tools
-- C++
-- C#
-- Unity
-- Git / GitHub
-- Visual Studio
-- Python
-
 ### 🎮 Projects
 Feel free to check out my latest projects:
 
